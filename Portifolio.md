@@ -51,6 +51,15 @@ Tudo do Padrão, mais:
 
 **Ideal quando:** a pessoa quer operar com padrão e escalar sem contratar.
 
+
+---
+
+
+
+## 🟩 Promessa:
+> “Eu monto seu Sistema Operacional no Notion para você tocar seu negócio com padrão: projetos, clientes, conteúdo e conhecimento num lugar só — com rotina e regras simples pra você manter sem depender de motivação.”
+
+
 ---
 
 ## 🟨 Entrega (processo replicável)
@@ -60,7 +69,4 @@ Tudo do Padrão, mais:
 3. **Implantação**: montagem + migração do essencial
 4. **Handover**: manual + rotina + ajuste fino
 
----
 
-## 🟩 Promessa:
-> “Eu monto seu Sistema Operacional no Notion para você tocar seu negócio com padrão: projetos, clientes, conteúdo e conhecimento num lugar só — com rotina e regras simples pra você manter sem depender de motivação.”
