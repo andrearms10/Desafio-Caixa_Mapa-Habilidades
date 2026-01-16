@@ -62,5 +62,5 @@ Tudo do Padrão, mais:
 
 ---
 
-## 🟩 O que eu faço:
+## 🟩 Promessa:
 > “Eu monto seu Sistema Operacional no Notion para você tocar seu negócio com padrão: projetos, clientes, conteúdo e conhecimento num lugar só — com rotina e regras simples pra você manter sem depender de motivação.”
