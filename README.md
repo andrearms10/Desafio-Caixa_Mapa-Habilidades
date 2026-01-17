@@ -12,6 +12,8 @@ O desafio consiste em construir um Mapa de Habilidades tendo como objetivo final
 - Cruzamento com Necessidades do Mercado
 - Caminhos de Monetização
 
+Na entrega é necessário apresentar o resultado das três estapas acima.
+
 ---
 
 ## 📚 Ferramentas Utilizadas
@@ -27,14 +29,12 @@ O desafio consiste em construir um Mapa de Habilidades tendo como objetivo final
 ---
 
 ## 🛠️ Desenvolvimento
-A criação de todas as etapas foi realizada na plataforma Adapta. Como utilizo a um ano a IA já conhece o meu trabalho, gostos, hard e soft skills. O deselvolvimento foi mui fácil e natural
+A criação de todas as etapas foi realizada na plataforma Adapta. Como utilizo a um ano a IA já conhece o meu trabalho, gostos, hard e soft skills. O deselvolvimento foi muito fácil, num tom de conversa e o resultado foi rápido.
 
 
 ---
 
 ## 🎯 Resultado
-O objetivo foi alcançado: o agente entrevistador demonstrou **liberdade e consistência** para criar perguntas relacionadas a **soft skills**, **hard skills** e também propor um **mini-case** com base no briefing.
-
-Além disso, quando o entrevistado apresentava respostas superficiais, o agente conseguia **aprofundar a investigação** com novas perguntas para validar o nível de conhecimento — tudo isso **sem ser prolixo** e sem tornar a entrevista entediante.
+O objetivo foi alcançado: ao final foi gerado um portifólio apresentando uma proposta de serviço com a ferramenta Notion.
 
 O resultado pode ser conferido em:
