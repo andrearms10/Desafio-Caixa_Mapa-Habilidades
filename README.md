@@ -37,4 +37,8 @@ A criação de todas as etapas foi realizada na plataforma Adapta. Como utilizo 
 ## 🎯 Resultado
 O objetivo foi alcançado: ao final foi gerado um portifólio apresentando uma proposta de serviço com a ferramenta Notion.
 
+Todo o processo de criação das 3 etapas, ou seja, a interação com a IA pode ser conferido em:
+[Processo criativo](https://github.com/andrearms10/Desafio-Caixa_Mapa-Habilidades/blob/main/Processo-Criativo.md)
+
+
 O resultado pode ser conferido em:
