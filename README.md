@@ -4,16 +4,13 @@
 <br>
 
 ## 💻 Sobre o Projeto
-Este trabalho faz parte de um **Desafio de Projeto** do bootcamp **CAIXA — Inteligência Artificial na Prática**, com o tema **“IA Entrevistador: Seu Simulador Inteligente de Entrevistas”**.
 
-Como o desafio não definia claramente um caminho de execução, estabeleci como objetivo **criar um agente entrevistador voltado a Processos Seletivos Internos (PSI)** em empresas.
+Este trabalho faz parte do **Desafio Caixa** do bootcamp **CAIXA — Inteligência Artificial na Prática**.
 
-O agente tem **autonomia para**:
-- **Criar perguntas** com base no briefing recebido;
-- **Aprofundar a avaliação** quando as respostas são rasas ou insuficientes;
-- **Validar conhecimentos** com perguntas complementares;
-- **Gerar um relatório final** com os principais achados;
-- **Sugerir uma trilha de cursos** baseada nos pontos de melhoria identificados.
+O desafio consiste em construir um Mapa de Habilidades tendo como objetivo final a monetização. Para tanto é necessário passar por 3 etapas, com o auxílio da IA.:
+- Inventário de Habilidades
+- Cruzamento com Necessidades do Mercado
+- Caminhos de Monetização
 
 ---
 
@@ -30,9 +27,8 @@ O agente tem **autonomia para**:
 ---
 
 ## 🛠️ Desenvolvimento
-A criação do agente, bem como os testes e ajustes, foram feitos na **Adapta**. O **Copilot** também foi utilizado para ajustes e testes adicionais, com foco em validar a performance.
+A criação de todas as etapas foi realizada na plataforma Adapta. Como utilizo a um ano a IA já conhece o meu trabalho, gostos, hard e soft skills. O deselvolvimento foi mui fácil e natural
 
-Em ambas as plataformas, o agente foi **bastante assertivo** na construção das perguntas e na condução do fluxo da entrevista.
 
 ---
 
