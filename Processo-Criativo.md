@@ -424,25 +424,13 @@ Isso dá segurança e aumenta valor percebido, porque vira “produto”.
 
 ---
 
-## 🟩 Mensagem de venda (curta, direta, sem vergonha)
+## 🟩 Mensagem de venda
 > “Eu monto seu Sistema Operacional no Notion para você tocar seu negócio com padrão: projetos, clientes, conteúdo e conhecimento num lugar só — com rotina e regras simples pra você manter sem depender de motivação.”
 
 👉 Se quiser uma versão mais “forte”:
 > “Notion não é o produto. O produto é você parar de se perder e começar a operar como empresa — sendo uma pessoa só.”
 
----
 
-## ⚠️ Cuidado (pra não virar ‘faço tudo’)
-Use **sites / imagem IA / vídeo IA** como **módulos dentro do sistema**, não como serviço principal.  
-Senão você entra no mercado de “freelancer generalista” e seu posicionamento enfraquece.
 
----
 
-Se quiser, posso transformar isso em um **cardápio pronto** (1 página) com:
-- nome final do serviço
-- bullets de entregas por pacote
-- FAQ (pra lidar com objeções)
-- checklist de onboarding (o que o cliente precisa te passar)
-
-Bora: **qual é o perfil do seu cliente ideal**? (ex.: consultora, social media, terapeuta, designer, infoprodutora, prestadora de serviços B2B).
   
